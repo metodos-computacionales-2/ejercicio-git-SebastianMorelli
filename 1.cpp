@@ -8,3 +8,11 @@ using namespace std;
 
 float r;
 
+int main()
+{
+    cout<<"Ingrese el radio de un círculo: ";
+    cin >> r;
+    
+    
+    return 0
+}
