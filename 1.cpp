@@ -6,3 +6,5 @@ using namespace std;
 
 //Declaración de variables
 
+float r;
+
