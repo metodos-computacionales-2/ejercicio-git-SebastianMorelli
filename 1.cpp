@@ -13,7 +13,9 @@ int main()
 {
     cout<<"Ingrese el radio de un círculo: ";
     cin >> r;
+    cout<<"El diametro del círculo: "<< 2*r << endl;
     cout<<"El perímetro del círculo: "<< 2*pi*r << endl;
+    cout<<"El área del círculo: "<< pi*r*r << endl;
     
-    return 0
+    return 0;
 }
